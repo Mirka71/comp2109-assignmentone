@@ -3,6 +3,8 @@
 
 
 get_header();
+
+
 ?>
 
 <?php
@@ -22,6 +24,5 @@ $featuredImg = wp_get_attachment_image_src(get_post_thumbnail_id($post->ID), 'fu
 </section>
 
 <?php
-
 get_footer();
 ?>

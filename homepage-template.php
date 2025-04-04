@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Assignment One
+ * Template Name: Bookstore
  * Template Post Type: page
  */
 get_header();
